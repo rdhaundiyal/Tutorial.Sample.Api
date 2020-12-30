@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Sample.Api", "Tutorial.Sample.Api\src\Tutorial.Sample.Api.csproj", "{35F5A2AD-B73B-4ED5-9543-C2E678ACBDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Sample.Api.Core", "Tutorial.Sample.Core\src\Tutorial.Sample.Api.Core.csproj", "{FD6C63A0-50D0-411D-ACAD-741D1A8C3428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F5A2AD-B73B-4ED5-9543-C2E678ACBDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F5A2AD-B73B-4ED5-9543-C2E678ACBDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F5A2AD-B73B-4ED5-9543-C2E678ACBDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F5A2AD-B73B-4ED5-9543-C2E678ACBDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6C63A0-50D0-411D-ACAD-741D1A8C3428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6C63A0-50D0-411D-ACAD-741D1A8C3428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6C63A0-50D0-411D-ACAD-741D1A8C3428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6C63A0-50D0-411D-ACAD-741D1A8C3428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8552BD04-95A8-432C-AAF2-022214430F2F}
+	EndGlobalSection
+EndGlobal

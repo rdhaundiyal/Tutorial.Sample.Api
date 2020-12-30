@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Mappers\" />
+    <Folder Include="Logging\" />
+    <Folder Include="Exception\" />
+    <Folder Include="Configuration\" />
+    <Folder Include="Identity\" />
+    <Folder Include="Security\" />
+    <Folder Include="Swagger\" />
+  </ItemGroup>
+
+</Project>
